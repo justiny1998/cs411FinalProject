@@ -1,1 +1,1 @@
-web: gunicorn cs411FinalProject.wsgi --log-file -
+web: gunicorn cs411herokuapp.wsgi --log-file -
